@@ -1,0 +1,152 @@
+{
+  "granCanaria": [
+    {
+      "id": 1,
+      "place": "Agaete",
+      "description": "Un pintoresco municipio conocido por sus paisajes naturales y su famoso Valle de Agaete.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/playas/cabeceras_estaticas/cabeceraAgaete01.jpg",
+      "activities": []
+    },
+    {
+      "id": 2,
+      "place": "Agüimes",
+      "description": "Un municipio con un casco histórico bien conservado y un entorno natural impresionante.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_aguimes.jpg",
+      "activities": []
+    },
+    {
+      "id": 3,
+      "place": "Artenara",
+      "description": "El municipio más alto de Gran Canaria, famoso por sus casas cueva y sus vistas panorámicas.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_artenara.jpg",
+      "activities": []
+    },
+    {
+      "id": 4,
+      "place": "Arucas",
+      "description": "Conocido por su impresionante iglesia neogótica y sus plantaciones de plátanos.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_arucas.jpg",
+      "activities": []
+    },
+    {
+      "id": 5,
+      "place": "Firgas",
+      "description": "Un pequeño municipio famoso por su entorno natural y sus rutas de senderismo.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_firgas.jpg",
+      "activities": []
+    },
+    {
+      "id": 6,
+      "place": "Gáldar",
+      "description": "Una ciudad histórica con importantes yacimientos arqueológicos y una rica cultura.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_galdar.jpg",
+      "activities": []
+    },
+    {
+      "id": 7,
+      "place": "Ingenio",
+      "description": "Conocido por su tradición artesanal y su hermoso casco histórico.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_ingenio.jpg",
+      "activities": []
+    },
+    {
+      "id": 8,
+      "place": "Las Palmas de Gran Canaria",
+      "description": "La capital de la isla, con playas, cultura y una vibrante vida urbana.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_lpgc.jpg",
+      "activities": []
+    },
+    {
+      "id": 9,
+      "place": "Mogán",
+      "description": "Famoso por su puerto pesquero y sus playas de ensueño.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_mogan.jpg",
+      "activities": []
+    },
+    {
+      "id": 10,
+      "place": "Moya",
+      "description": "Un municipio rodeado de naturaleza, con bosques y barrancos impresionantes.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_moya.jpg",
+      "activities": []
+    },
+    {
+      "id": 11,
+      "place": "San Bartolomé de Tirajana",
+      "description": "Conocido por sus dunas de Maspalomas y su ambiente turístico.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_sanbartolome.jpg",
+      "activities": []
+    },
+    {
+      "id": 12,
+      "place": "La Aldea de San Nicolás",
+      "description": "Un lugar tranquilo con un entorno natural privilegiado.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_laaldea.jpg",
+      "activities": []
+    },
+    {
+      "id": 13,
+      "place": "Santa Brígida",
+      "description": "Un municipio con un clima agradable y un entorno rural encantador.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_stabrigida.jpg",
+      "activities": []
+    },
+    {
+      "id": 14,
+      "place": "Santa Lucía",
+      "description": "Conocido por su paisaje montañoso y su tradición agrícola.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_stalucia.jpg",
+      "activities": []
+    },
+    {
+      "id": 15,
+      "place": "Santa María de Guía",
+      "description": "Famoso por su queso y su arquitectura tradicional canaria.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_guia.jpg",
+      "activities": []
+    },
+    {
+      "id": 16,
+      "place": "Vega de San Mateo",
+      "description": "Un municipio con un entorno rural y un mercado tradicional muy popular.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_sanmateo.jpg",
+      "activities": []
+    },
+    {
+      "id": 17,
+      "place": "Tejeda",
+      "description": "Uno de los pueblos más bonitos de España, con vistas al Roque Nublo y Bentayga.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_tejeda.jpg",
+      "activities": []
+    },
+    {
+      "id": 18,
+      "place": "Telde",
+      "description": "El segundo municipio más poblado de Gran Canaria, con una rica historia y cultura.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_telde.jpg",
+      "activities": []
+    },
+    {
+      "id": 19,
+      "place": "Teror",
+      "description": "Conocido por su basílica y su arquitectura tradicional canaria.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_teror.jpg",
+      "activities": []
+    },
+    {
+      "id": 20,
+      "place": "Valleseco",
+      "description": "Un municipio rodeado de naturaleza, ideal para el senderismo y la tranquilidad.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_valleseco.jpg",
+      "activities": []
+    },
+    {
+      "id": 21,
+      "place": "Valsequillo",
+      "description": "Famoso por su entorno natural y sus tradiciones locales.",
+      "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_valsequillo.jpg",
+      "activities": []
+    }
+  ]
+}
+
