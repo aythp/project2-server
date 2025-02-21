@@ -5,7 +5,16 @@
       "place": "Agaete",
       "description": "Un pintoresco municipio conocido por sus paisajes naturales y su famoso Valle de Agaete. El territorio que hoy conforma el municipio de Agaete constituye un valle que reúne en muy corto espacio gran cantidad de recursos, por lo que no es de extrañar que en este lugar se asentara ya desde época precolonial una importante comunidad de población. Prueba de ello son los numerosos yacimientos arqueológicos existentes en la zona, entre los que podemos encontrar todo tipo de estructuras y restos materiales pertenecientes a la antigua población insular.",
       "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/playas/cabeceras_estaticas/cabeceraAgaete01.jpg",
-      "activities": []
+      "activities": [
+        {
+          "id": "adb8b4d7-f7e8-4bac-b502-1ee1397d92eb",
+          "name": "Puerto de las Nieves",
+          "description": "Un pintoresco puerto pesquero con restaurantes de mariscos",
+          "type": "Gastronómico/Naturaleza.",
+          "ubication": "Zona costera de Agaete.",
+          "image": "https://visitagaete.es/storage/2018/10/galeria-1-1.jpg"
+        }
+      ]
     },
     {
       "id": 2,
@@ -26,7 +35,16 @@
       "place": "Arucas",
       "description": "Conocido por su impresionante iglesia neogótica y sus plantaciones de plátanos.",
       "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_arucas.jpg",
-      "activities": []
+      "activities": [
+        {
+          "id": "bfb101f4-10c5-4eb6-9f70-7193de953fc1",
+          "name": "Iglesia de San Juan Bautista",
+          "description": "Conocida como la \"Catedral de Arucas\", es un impresionante edificio de piedra azul.",
+          "type": "Cultural",
+          "ubication": "Plaza de San Juan",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Iglesia.de.San.Juan.Bautista.Arucas.JPG/1200px-Iglesia.de.San.Juan.Bautista.Arucas.JPG"
+        }
+      ]
     },
     {
       "id": 5,
@@ -40,7 +58,16 @@
       "place": "Gáldar",
       "description": "Una ciudad histórica con importantes yacimientos arqueológicos y una rica cultura.",
       "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_galdar.jpg",
-      "activities": []
+      "activities": [
+        {
+          "id": "55100c01-91de-4be1-853e-e839d3128aea",
+          "name": "Cueva Pintada",
+          "description": "El Museo y Parque Arqueológico Cueva Pintada es uno de los espacios arqueológicos más importantes de Gran Canaria.",
+          "type": "Cultural/Histórico.",
+          "ubication": "C. Audiencia, 2, 35460 Gáldar",
+          "image": "https://caminodesantiagodegrancanaria.es/wp-content/uploads/2021/04/interior-del-museo-y-parque-arqueologico-cueva-pintada-en-galdar-2_5091506_20190525185709-1248x702-1.jpeg"
+        }
+      ]
     },
     {
       "id": 7,
@@ -54,7 +81,24 @@
       "place": "Las Palmas de Gran Canaria",
       "description": "La capital de la isla, con playas, cultura y una vibrante vida urbana.",
       "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_lpgc.jpg",
-      "activities": []
+      "activities": [
+        {
+          "id": "b009b9d4-2188-4f26-8612-ccd51ce5bfb3",
+          "name": "Playa de Las Canteras.",
+          "description": "Una de las mejores playas urbanas de Europa, ideal para nadar, hacer snorkel o relajarse.",
+          "type": "Playa",
+          "ubication": "Avenida de Las Canteras",
+          "image": "https://www.grancanaria.com/turismo/fileadmin/_processed_/csm_Las_Canteras_02_7cac71214f.jpg"
+        },
+        {
+          "id": "378b9487-e9fe-4b39-9d4b-132d90c3e0bf",
+          "name": "Museo Canario",
+          "description": "Un museo dedicado a la historia y cultura de los aborígenes canarios.",
+          "type": "Cultural",
+          "ubication": "Calle Dr. Verneau, Vegueta",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/9c/4b/85/canarian-museum.jpg?w=1200&h=-1&s=1"
+        }
+      ]
     },
     {
       "id": 9,
@@ -89,7 +133,16 @@
       "place": "Santa Brígida",
       "description": "Un municipio con un clima agradable y un entorno rural encantador.",
       "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_stabrigida.jpg",
-      "activities": []
+      "activities": [
+        {
+          "id": "251fbdf0-8ec3-4c66-84a9-f849168a8b7b",
+          "name": "Jardín Botánico Canario Viera y Clavijo",
+          "description": "Un jardín botánico con una gran variedad de flora endémica de Canarias.",
+          "type": "Naturaleza",
+          "ubication": "Carretera del Dragonal, Tafira.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jard%C3%ADn_canario_12.JPG"
+        }
+      ]
     },
     {
       "id": 14,
@@ -131,7 +184,16 @@
       "place": "Teror",
       "description": "Conocido por su basílica y su arquitectura tradicional canaria.",
       "image": "https://www.grancanaria.com/turismo/fileadmin/diseno2014/img/menu_izquierdo/cabeceras_estaticas/cabecera_teror.jpg",
-      "activities": []
+      "activities": [
+        {
+          "id": "a32beddb-e45e-4497-a621-4e477363947a",
+          "name": "Mercado de Teror",
+          "description": "Un mercado donde se venden productos locales como chorizos y quesos.",
+          "type": "Gastronómico",
+          "ubication": "Plaza del Pino",
+          "image": "https://www.okgrancanaria.com/wp-content/uploads/2024/02/Teror-calle-principal-mercadillo-22.jpg"
+        }
+      ]
     },
     {
       "id": 20,
